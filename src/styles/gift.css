@@ -1,0 +1,18 @@
+.landing_popup{
+    width: 100%;
+    display: inline-block;
+    padding: 30px;
+    margin-top: 50px;
+    position: relative;
+}
+.ReactModal__Content.ReactModal__Content--after-open.campaign_model{
+    width: 600px;
+    display: inline-block;
+    border:none !important;
+    background: transparent;
+    border-radius: 0px;
+}
+.landing_popup .cross-btn{
+    top:-15px;
+    right: -15px;
+}
